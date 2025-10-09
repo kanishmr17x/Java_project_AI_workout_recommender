@@ -1,0 +1,16 @@
+# FitGenie AI Engine - Python Dependencies
+# These are the Python packages needed to run the AI engine
+
+# Flask - Web framework for creating the API
+Flask==2.3.3
+
+# Flask-CORS - Allows frontend to connect to backend
+Flask-CORS==4.0.0
+
+# These are usually included with Python, but listed for completeness
+# json - For handling JSON data (built-in)
+# random - For random exercise selection (built-in)
+# typing - For type hints (built-in)
+
+# Optional: For better error handling and logging
+# requests==2.31.0  # For making HTTP requests if needed
