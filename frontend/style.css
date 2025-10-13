@@ -199,7 +199,7 @@ input::placeholder {
 }
 
 .workout-plan li:before {
-    content: "💪";
+    content: "\F4AA";
     position: absolute;
     left: 0;
 }
@@ -284,3 +284,4 @@ footer {
     text-align: center;
     font-weight: 600;
 }
+
